@@ -1,4 +1,4 @@
-# wordup
+# Wordup
 repo for project wordup
 
 # Team Members:
